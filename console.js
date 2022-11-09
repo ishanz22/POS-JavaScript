@@ -1,11 +1,6 @@
-// This is my first commit
-console.log("hello world")
-console.log("hello world") // 2nd time
+console.log("Hello World");
 
 function main(){
-  return null;
+  console.log(1);
 }
-
 main()
-
-//console.log(main)
